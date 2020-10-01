@@ -1,7 +1,7 @@
                             #Author :  MUMMIDI BALAJI   (01-10-2020) 
                             #This is a code is designed to convert Numbers to Words
 
-print('                                                                                             ＣＯＤＥＤ ＢＹ ＢＡＬＡＪＩ                                                                                 ')
+print('                                                  ＣＯＤＥＤ ＢＹ ＢＡＬＡＪＩ                                             ')
 print('\n*****************************************************NUMBERS TO WORDS*********************************************** \n')
 
 words_upto_19                   =    ['','One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten','Eleven','Twelve','Thirteen','Fourteen','Fifteen','Sixteen','Seventeen','Eighteen','Nineteen']
